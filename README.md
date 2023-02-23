@@ -1,7 +1,7 @@
 <img src="./pixel-art-landscape.png" />
 
 I'm an italian backend developer. I use languages such as Java on a daily basis. Also I interact with relational databases (such as MySQL, MariaDB) and non-relational databases (MongoDB). I work with DBMS like SQL Developer and DBeaver. I can use Apache Superset in the field of Business Intelligence to create descriptive analysis charts. Within personal projects, I experiment with modern technologies such as the Ethereum blockchain.
-<br>
+
 Dynamism and curiosity are what drives me to train and inform myself on a daily basis, to ensure maximum professionalism in what I love to do. I am a type of person who loves learning new things and listens carefully to others. I love working in a team and caring for people. I firmly believe that good relationship management is the key to excellent results.
 
 I love literature, personal finance and hiking.
