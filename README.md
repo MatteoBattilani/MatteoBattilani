@@ -13,6 +13,7 @@ I love literature, personal finance and hiking.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/Java-%23323330.svg?style=for-the-badge&logo=Java&logoColor=#F3F8FC)
+![Python](https://img.shields.io/badge/Python-green.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-blue.svg?style=for-the-badge&logo=SQL&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-green.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-teal.svg?style=for-the-badge&logo=Apache%20Superset&logoColor=white)
