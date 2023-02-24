@@ -17,7 +17,7 @@ I love literature, personal finance and hiking.
 ![Python](https://img.shields.io/badge/Python-green.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-blue.svg?style=for-the-badge&logo=SQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![DBeaver](https://img.shields.io/badge/-DBEAVER%20-white)
+![DBeaver](https://img.shields.io/badge/DBeaver-grey.svg?style=for-the-badge&logo=SQL)
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-teal.svg?style=for-the-badge&logo=Apache%20Superset&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
